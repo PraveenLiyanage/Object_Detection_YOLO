@@ -24,8 +24,8 @@ This project implements Object Detection using YOLO (You Only Look Once), a real
 
 - cd Object_Detection_YOLO
 
-## Download YOLOv3 weights:
+## Download YOLOv8 :
 
-- wget :  https://pjreddie.com/media/files/yolov8.weights
+- wget :  https://www.kaggle.com/code/ultralytics/yolov8
 
 
