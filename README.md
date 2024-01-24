@@ -28,4 +28,8 @@ This project implements Object Detection using YOLO (You Only Look Once), a real
 
 - wget :  https://www.kaggle.com/code/ultralytics/yolov8
 
+## Ultralytics 
+
+- get : https://github.com/ultralytics/ultralytics.git
+
 
