@@ -22,7 +22,9 @@ This project implements Object Detection using YOLO (You Only Look Once), a real
 
 ## Navigate to the project directory:
 
-- cd Object_Detection_YOLO
+```bash
+   cd Object_Detection_YOLO
+```
 
 ## Download YOLOv8 :
 
