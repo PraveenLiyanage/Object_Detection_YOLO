@@ -19,12 +19,13 @@ This project implements Object Detection using YOLO (You Only Look Once), a real
 
    ```bash
    git clone https://github.com/praveenliyanage/Object_Detection_YOLO.git
-
+   ```
+   
 ## Navigate to the project directory:
-
-```bash
-   cd Object_Detection_YOLO
-```
+   
+   ```bash
+      cd Object_Detection_YOLO
+   ```
 
 ## Download YOLOv8 :
 
